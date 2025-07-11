@@ -73,11 +73,11 @@ export default function Footer() {
             <div className="space-y-3">
               <div className="flex items-center">
                 <Phone className="h-5 w-5 text-blue-400 mr-3" />
-                <span className="text-gray-300">(555) 123-4567</span>
+                <span className="text-gray-300">(666) 932-9693</span>
               </div>
               <div className="flex items-center">
                 <Mail className="h-5 w-5 text-blue-400 mr-3" />
-                <span className="text-gray-300">info@zzautotransport.com</span>
+                <span className="text-gray-300">saleszzautotransport@gmail.com</span>
               </div>
             </div>
           </div>
