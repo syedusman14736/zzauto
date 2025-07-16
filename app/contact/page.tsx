@@ -187,14 +187,14 @@ export default function ContactPage() {
                 <div className="flex items-center space-x-3">
                   <Phone className="h-5 w-5 text-blue-600" />
                   <div>
-                    <p className="font-medium text-gray-900">(555) 123-4567</p>
+                    <p className="font-medium text-gray-900">(678) 932-9693</p>
                     <p className="text-sm text-gray-600">Available 24/7</p>
                   </div>
                 </div>
                 <div className="flex items-center space-x-3">
                   <Mail className="h-5 w-5 text-blue-600" />
                   <div>
-                    <p className="font-medium text-gray-900">quotes@zzautotransport.com</p>
+                    <p className="font-medium text-gray-900">SalesZZautoTransport@gmail.com</p>
                     <p className="text-sm text-gray-600">Quick response guaranteed</p>
                   </div>
                 </div>
