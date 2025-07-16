@@ -10,13 +10,7 @@ export default function Footer() {
           {/* Company Info */}
           <div className="md:col-span-2">
             <Link href="/" className="flex items-center mb-4">
-              <Image
-                src="/logo.png"
-                alt="Z&Z Auto Transport"
-                width={120}
-                height={40}
-                className="h-10 w-auto brightness-0 invert"
-              />
+              <span>Z&Z Auto</span>
             </Link>
             <p className="text-gray-300 mb-6 leading-relaxed">
               Z&Z Auto Transport provides reliable, nationwide vehicle shipping services with comprehensive insurance
