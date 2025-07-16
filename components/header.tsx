@@ -15,7 +15,7 @@ export default function Header() {
         <div className="flex items-center justify-between h-16">
           {/* Logo */}
           <Link href="/" className="flex items-center">
-            <Image src="/logo.png" alt="Z&Z Auto Transport" width={120} height={40} className="h-10 w-auto" />
+          <span>Z&Z Auto</span>
           </Link>
 
           {/* Desktop Navigation */}
