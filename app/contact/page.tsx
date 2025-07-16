@@ -91,6 +91,12 @@ export default function ContactPage() {
                     />
                   </div>
 
+                  <div>
+                    <input type="radio" />
+                    <label className="block text-sm font-medium text-gray-700 mb-2">By entering your number, you agree to receive mobile messages. Text HELP for help. Text STOP to cancel. Message and data rates may apply. Carriers are not liable for delayed or undelivered messages. Carriers are not liable for delayed or undelivered messages.</label>
+                    
+                  </div>
+
                   <div className="grid md:grid-cols-3 gap-4">
                     <div>
                       <label className="block text-sm font-medium text-gray-700 mb-2">Vehicle Make *</label>
