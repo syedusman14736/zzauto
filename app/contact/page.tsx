@@ -172,6 +172,11 @@ export default function ContactPage() {
                     />
                   </div>
 
+                  <div class="flex gap-2">
+                    <input type="radio" />
+                    <label className="block text-sm font-medium text-gray-700 mb-2">By checking this box, you agree to receive recurring messages from ZZ auto transport . Message frequency varies. Message and data rates may apply. Reply STOP to opt out, HELP for help.</label>
+                  </div>
+
                   <Button
                     type="submit"
                     className="w-full bg-gradient-to-r from-blue-600 to-blue-700 hover:from-blue-700 hover:to-blue-800 text-white py-3 text-lg font-semibold"
